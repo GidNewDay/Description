@@ -1,0 +1,4 @@
+<script type="text/javascript">
+var _rutarget = window._rutarget || [];
+_rutarget.push({'event': 'thankYou', 'conv_id': 'card_citipriority', 'order_id': orderId});
+</script>
